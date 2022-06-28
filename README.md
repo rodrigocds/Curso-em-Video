@@ -1,5 +1,5 @@
 # Curso em Vídeo
- Códigos dos cursos realizados na plataforma do Curso em Vídeo com o professor Gustavo Guanabara. <img src="toReadme/curso-em-video-logo.png" width='120px' align='right'>
+ Códigos dos cursos realizados na plataforma do Curso em Vídeo com o professor Gustavo Guanabara. <img src="toReadme/curso-em-video-logo.png" width='100px' align='right'>
  
 ***
 
@@ -8,6 +8,8 @@
 ### Curso de Git e GitHub
 1. [Site Exemplo](https://rodrigocds.github.io/Curso-em-Video/Git-GitHub/site-exemplo/index.html) <img src="toReadme/github-logo.png" width='50px' align='right'>
 2. [Projeto Site](https://rodrigocds.github.io/Curso-em-Video/Git-GitHub/projeto-site/index.html)
+
+### Curso de HTML5 e CSS3
 
 ### Curso de JavaScript
 1. [Hora do dia (Aula 12 / EX 14)](https://rodrigocds.github.io/Curso-em-Video/JavaScript/aula12ex/ex014/modelo.html)
@@ -19,6 +21,7 @@
 _[Modelo utilizado nos exercícios](https://rodrigocds.github.io/Curso-em-Video/JavaScript/aula12ex/modelo/modelo.html)_
 
 ***
+
 
 Redes Sociais do Curso em vídeo
 
