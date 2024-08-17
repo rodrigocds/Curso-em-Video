@@ -4,5 +4,5 @@ if nome == 'Rodrigo':
 elif nome == 'Julia' or nome == 'Sara':
     print('Seu nome é bem popular no Brasil')
 else:
-    print('Seu nome é bem normal.')
+    print('Seu nome é não normal.')
 print('Tenha um bom dia {}'.format(nome))
